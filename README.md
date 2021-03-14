@@ -1,6 +1,7 @@
 # JavaScript: Password Generator
-Project Owner - Aaron Au Yoong
-View live link here:
+Project Owner - Aaron Au Yoong 
+<br>
+View live link here: https://aaronauyoong.github.io/JS-Password-Generator/.
 
 ## Introduction
 People's sensitive data need to be protected in this day and age. Through the usage of this password generator, users are able to randomly generate a desirable password to protect their data. Users are able to customise their password to meet their needs, by selecting a length between 8 to 128 characters, and other criteria such as lowercase, uppercase, numeric and special characters. 
