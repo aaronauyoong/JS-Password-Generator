@@ -72,29 +72,6 @@ header {
   clear: both;
 }
 
-/* Added few new styles for password length section of html */
-.form {
-  display: grid;
-  grid-template-columns: auto auto;
-  row-gap: 1rem;
-  column-gap: 3rem;
-  justify-content: center;
-  align-items: center;
-}
-
-label {
-  font-weight: bold;
-}
-
-.password-length-container {
-  display: flex;
-  align-items: center;
-}
-
-.number-input {
-  width: 3rem;
-}
-
 .btn {
   border: none;
   background-color: hsl(360, 91%, 36%);
