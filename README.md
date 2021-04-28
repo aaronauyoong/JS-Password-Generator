@@ -3,6 +3,16 @@ Project Owner - Aaron Au Yoong
 <br>
 View live link here: https://aaronauyoong.github.io/JS-Password-Generator/.
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://choosealicense.com/licenses/mit/)
+
+## Table of Contents
+* [Introduction](#Introduction)
+* [Technologies](#Technologies)
+* [Deliverables](#Deliverables)
+* [Functionalities](#Functionalities)
+* [Screenshots](#Screenshots)
+* [License](#License)
+
 ## Introduction
 People's sensitive data need to be protected in this day and age. Through the usage of this password generator, users are able to randomly generate a desirable password to protect their data. Users are able to customise their password to meet their needs, by selecting a length between 8 to 128 characters, and other criteria such as lowercase, uppercase, numeric and special characters. 
 
@@ -12,7 +22,7 @@ Technologies used in this password generator include:
 - CSS Stylesheet to style the website.
 - Javascript page to create the password generator.
 
-## Project Deliverables
+## Deliverables
 Below are the password generator project requirements:
 - When users click on the button to generate a password, a series of prompts will appear for them to choose password criteria
 - Users can choose a length of at least 8 characters and no more than 128 characters
@@ -73,3 +83,5 @@ Screenshots of the application are below.
 ## Improvements
 Version 1.0 - Prompts used as per project requirements to aid user in generating password. Moving forward, can perhaps consider a less "disruptive" approach for a password generator app, such as using forms. 
 
+## License
+Copyright (c) 2021-Present Aaron Au Yoong. All rights reserved.
